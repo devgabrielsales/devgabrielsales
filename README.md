@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando com C# .NET como Freelancer
 - 🌱 Estudando C# .NET e SQL Server
 - 🌱 Estudando desenvolvimento back-end na Cubos Academy
-- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Sales-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Sales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
