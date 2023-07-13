@@ -1,6 +1,6 @@
 ## Oi! Eu sou Gabriel Sales 👋
 
-- 🔭 Atualmente trabalhando com Back-end C# .NET como Freelancer
+- 🔭 Atualmente trabalhando com C# .NET como Freelancer
 - 🌱 Atualmente estudando C# .NET e SQL Server
 
 <div style="display: inline_block"><br>
