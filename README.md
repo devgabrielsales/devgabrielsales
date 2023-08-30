@@ -1,10 +1,10 @@
-# Oi! Eu sou Gabriel Sales 👋
+# Oi! Eu sou Gabriel Sales👋
 
 - Cursando Sistemas de Informação na Anhanguera Educacional
 - Bolsista do curso de Desenvolvimento de Software Back-end da Cubos Academy & Ifood
 - Bolsista do Bootcamp Back-end Java da DIO & Santander
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ***📋 Linguagens***
 
@@ -40,7 +40,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📬 Contatos
+## Contatos
 
 <div> 
   <a href="https://www.linkedin.com/in/gabrielsalesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
