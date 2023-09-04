@@ -4,6 +4,8 @@
 
 🎓 Estudando **Desenvolvimento de Software Back-end** na [Cubos Academy](https://cubos.academy/) | **Bootcamp Back-end Java** na [DIO](https://www.dio.me/) | **Sistemas de Informação** na [Anhanguera Educacional](https://www.anhanguera.com/)
 
+🔎 Também sou curioso sobre Mercado Financeiro
+
 ## 🌐 Para me encontrar
 
 <div> 
