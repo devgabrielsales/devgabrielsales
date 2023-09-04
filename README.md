@@ -2,21 +2,19 @@
 
 🖥️ Desenvolvedor de Software Back-end
 
-🎓 Graduando em **Sistemas de Informação** na [Anhanguera Educacional](https://www.anhanguera.com/)
+🎓 Estudando **Desenvolvimento de Software Back-end** na [Cubos Academy](https://cubos.academy/) | **Bootcamp Back-end Java** na [DIO](https://www.dio.me/) | **Sistemas de Informação** na [Anhanguera Educacional](https://www.anhanguera.com/)
 
-🚀 Estudando **Desenvolvimento de Software Back-end** na [Cubos Academy](https://cubos.academy/) e **Bootcamp Back-end Java** na [DIO](https://www.dio.me/)
-
-## Para me encontrar 🌐
+## 🌐 Para me encontrar
 
 <div> 
   <a href="https://www.linkedin.com/in/gabrielsalesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gabrielsalesdev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## GitHub Stats ⚡
+## ⚡ GitHub Stats
 ![Gabriel Sales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsalesdev&show_icons=true&theme=radical)
 
-## Tecnologias 💻
+## 💻 Tecnologias
 
 ***Linguagens***
 
@@ -36,7 +34,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-***Bancos de dados***
+***Bancos de Dados***
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,7 +45,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-***Version Control***
+***Controles de Versão***
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
