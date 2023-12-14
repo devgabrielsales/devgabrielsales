@@ -29,7 +29,7 @@
   ![Markdown](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)
 </details>
 
-<details open>
+<details>
   <summary><b>📚 Frameworks, Platforms and Libraries</b></summary>
   <br>
 
@@ -46,7 +46,7 @@
   ![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </details>
 
-<details open>
+<details>
   <summary><b>💾 Databases</b></summary>
   <br>
   
@@ -55,7 +55,7 @@
   ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 </details>
 
-<details open>
+<details>
   <summary><b>🧪 Testing</b></summary>
   <br>
   
@@ -64,7 +64,7 @@
   ![Jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 </details>
 
-<details open>
+<details>
   <summary><b>💻 IDEs/Editors</b></summary>
   <br>
   
@@ -73,7 +73,7 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-black?style=for-the-badge&logo=intellijidea&logoColor=white)
 </details>
 
-<details open>
+<details>
   <summary><b>🕓 Version Control</b></summary>
   <br>
   
