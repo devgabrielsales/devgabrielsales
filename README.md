@@ -94,11 +94,11 @@
 
 <div align="center">
   
-![Gabriel Sales's GitHub Streak](https://streak-stats.demolab.com/?user=gabrielsalesdev&theme=transparent)
+![Gabriel Sales's GitHub Streak](https://streak-stats.demolab.com/?user=gabrielvendas&theme=transparent)
   
-![Gabriel Sales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsalesdev&show_icons=true&theme=transparent)
+![Gabriel Sales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielvendas&show_icons=true&theme=transparent)
 
-![Gabriel Sales's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesdev&layout=compact&theme=transparent)
+![Gabriel Sales's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvendas&layout=compact&theme=transparent)
 
 </div>
 
